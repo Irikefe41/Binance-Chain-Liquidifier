@@ -1,0 +1,11 @@
+{
+    "privateKey": "0b1348b67a08e073d5e8f4c3c62914c465e928a9c96abad3faa6ac6b02ccf7b2",
+    "subscribeTo": "marketDepth",
+    "address": "bnb13zq5k5dj36a2ghkdpfc9dzvtxd0rnqt7z7gq99",
+    "pair": ["MDAB-D42_BNB","PVT-554_BNB"],
+    "side": "bids",
+    "stepPrice": 5,
+    "total": 1.5,
+    "priceLimit": 0.000005
+}
+

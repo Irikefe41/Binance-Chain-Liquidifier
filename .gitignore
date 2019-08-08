@@ -1,0 +1,4 @@
+#Ignore directories
+kafka/
+node_modules/
+
